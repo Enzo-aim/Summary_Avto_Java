@@ -3,8 +3,7 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
-
-
+build.gradle
 
 ### STS ###
 .apt_generated
@@ -16,7 +15,7 @@ build/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
